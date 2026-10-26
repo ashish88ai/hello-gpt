@@ -145,7 +145,7 @@ Feel free to check the [issues page](https://github.com/keshav2540/Hello-GPT/iss
 ## 👤 Author
 
 **Keshav**
-GitHub: [@keshav2540](https://github.com/keshav2540)
+GitHub: [@ashish88ai](https://github.com/ashish88ai)
 
 ---
 
